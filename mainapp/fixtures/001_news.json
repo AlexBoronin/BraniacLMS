@@ -1,0 +1,1 @@
+[{"model": "mainapp.news", "pk": 3, "fields": {"title": "News002", "preambule": "NewPreambuleNews002", "body": null, "body_as_markdown": false, "created": "2022-11-28T08:25:15.965Z", "updated": "2022-11-28T08:27:12.662Z", "deleted": true}}]
