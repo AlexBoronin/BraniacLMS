@@ -1,6 +1,6 @@
 from locust import HttpUser, task
 
-SERVER_IP_ADDR = "194.67.104.229"
+SERVER_IP_ADDR = "89.108.115.93"
 
 
 class LoadTestingBraniacLMS(HttpUser):
