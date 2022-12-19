@@ -12,4 +12,4 @@ class LoadTestingBraniacLMS(HttpUser):
         self.client.get(f"http://{SERVER_IP_ADDR}/mainapp/courses/1/")
         # Authapp
         self.client.get(f"http://{SERVER_IP_ADDR}/authapp/register/")
-        self.client.get(f"http://{SERVER_IP_ADDR}/authapp/login/")-
+        self.client.get(f"http://{SERVER_IP_ADDR}/authapp/login/")
